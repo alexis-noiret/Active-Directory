@@ -6,7 +6,9 @@
 ![Status](https://img.shields.io/badge/Project-Lab%20Project-orange)
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red)
 
-## 📌 Présentation
+---
+
+## 📋 Présentation
 
 Ce projet consiste en la **mise en place et l’automatisation complète d’un environnement Active Directory** dans un contexte de laboratoire (lab), avec un focus sur :
 
@@ -19,7 +21,7 @@ Ce projet consiste en la **mise en place et l’automatisation complète d’un 
 
 ---
 
-## 🧱 Architecture du projet
+## 🏗️ Architecture
 
 Le projet s’appuie sur une infrastructure Active Directory classique :
 
@@ -59,7 +61,7 @@ Le projet s’appuie sur une infrastructure Active Directory classique :
 
 ---
 
-## 📂 Structure du projet
+## 📁 Structure du dépôt
 
 ```
 Active-Directory/
@@ -129,7 +131,7 @@ Active-Directory/
 
 ---
 
-## 💡 Compétences démontrées
+## 🧠 Compétences démontrées
 
 * Administration **Active Directory**
 * Gestion des identités (IAM)
@@ -140,7 +142,7 @@ Active-Directory/
 
 ---
 
-## 👨‍💻 Auteur
+## 👤 Auteur
 
 **Alexis Noiret**
 🎓 Étudiant en cybersécurité
@@ -148,12 +150,12 @@ Active-Directory/
 
 ---
 
-## 📈 Objectif professionnel
+## 🎯 Objectif professionnel
 
 Ce projet s’inscrit dans une démarche de montée en compétences en **administration système et cybersécurité**, avec pour objectif une alternance en environnement professionnel.
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Avertissement
 
 Projet réalisé dans un environnement de laboratoire à des fins pédagogiques.
