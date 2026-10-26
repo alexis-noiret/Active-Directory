@@ -1,10 +1,12 @@
-> 🔐 Hands-on Active Directory lab focused on automation, security and enterprise best practices
 # 🛡️ Active Directory Automation Lab
+
 ![PowerShell](https://img.shields.io/badge/Language-PowerShell-blue)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-AD%20DS-forestgreen)
 ![Windows Server](https://img.shields.io/badge/OS-Windows%20Server-0078D6)
 ![Status](https://img.shields.io/badge/Project-Lab%20Project-orange)
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red)
+
+> 🔐 Hands-on Active Directory lab focused on automation, security and enterprise best practices
 
 ---
 
